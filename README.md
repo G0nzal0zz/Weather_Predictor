@@ -13,6 +13,12 @@ or any other extreme climatic condition whatsoever) as soon as possible.
 >> ./groundhog period
 ```
 
+## TESTING:
+
+```
+>> ./tests_groundhog
+```
+
 <p align="center">
   <img width="460" height="270" src="https://github.com/G0nzal0zz/Weather_Predictor/blob/main/bonus/ground1.png">
 </p>
