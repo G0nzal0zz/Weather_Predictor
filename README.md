@@ -1,5 +1,5 @@
 
-# Weather Predicor
+# Weather Predictor
 
     ## Objective
 
