@@ -12,8 +12,8 @@ or any other extreme climatic condition whatsoever) as soon as possible.
     ./graphic [-h] [[-g or -a] file period]
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/G0nzal0zz/Weather_Predictor/bonus/ground1.png">
+  <img width="460" height="300" src="https://github.com/G0nzal0zz/Weather_Predictor/blob/main/bonus/ground1.png">
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://github.com/G0nzal0zz/Weather_Predictor/ground2.png">
+  <img width="460" height="300" src="https://github.com/G0nzal0zz/Weather_Predictor/blob/main/bonus/ground2.png">
 </p>
